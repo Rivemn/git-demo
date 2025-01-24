@@ -1,4 +1,6 @@
 емае текст 1
 
 
-test git revert
+
+
+git commit amend
